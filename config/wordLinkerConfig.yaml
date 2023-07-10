@@ -1,0 +1,11 @@
+---
+excludepath:
+  - ".git/"
+  - ".gitignore"
+  - ".github/"
+
+includePath:
+  - ".md"
+
+wordLinks:
+  - youtube: https://www.youtube.com/
